@@ -8,7 +8,7 @@ middle_name:
 last_name: Fabbretti
 email: giovanni.fabbretti@inria.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Academic and personal website of Giovanni Fabbretti.
+    Academic and personal website of Giovanni Fabbretti.
 footer_text: >
 
 icon:
