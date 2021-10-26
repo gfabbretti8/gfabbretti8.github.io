@@ -7,13 +7,12 @@ first_name: Giovanni
 middle_name: 
 last_name: Fabbretti
 email: giovanni.fabbretti@inria.fr
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    Academic and personal website of Giovanni Fabbretti.
+description: Academic and personal website of Giovanni Fabbretti.
 icon: 🎓   # the emoji used as the favicon
 url: https://gfabbretti8.github.io  # the base hostname & protocol for your site
 baseurl: ""
 last_updated: true # set to true if you want to display last updated in the footer
- path as permalink in a page, helps to conform with EU GDPR
+
 
 # -----------------------------------------------------------------------------
 # RSS Feed
