@@ -2,6 +2,7 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
-    "DBLP:conf/rc/FabbrettiLS21"))
+    "LamiLSF22"
+    "FabbrettiLS21"))
  :bibtex)
 
